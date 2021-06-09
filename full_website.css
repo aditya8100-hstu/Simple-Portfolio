@@ -1,0 +1,67 @@
+
+#left{
+    background-color: black;
+    margin-right:900px; 
+    padding: 20px;
+    margin-left: 250px; 
+}
+#ima_div{
+    background-color: skyblue;
+    margin-right:900px; 
+    padding: 20px; 
+    margin-left: 250px; 
+}
+#left_img{
+    width: 190px;
+    height: 190px;
+    border-radius: 50%;
+    margin-left: 33px;
+}
+#left_about, #left_contact,#left_skill , #interest{
+    color:skyblue;
+}
+#about_text{
+    color:white;
+}
+#left_conatct_text{
+    color: white;
+    line-height: 1.6;
+}
+
+#left_skill_text{
+    color:white;
+    line-height: 1.6;
+}
+
+.fas , .fab{
+    color:white;
+    size: 20px;
+}
+
+#right{
+    margin-left: 650px;
+    margin-top: -940px;
+    margin-right: 200px;
+}
+#rightname{
+    font-size: 50px;
+    letter-spacing: 3px;
+}
+#marketing_manager{
+    margin-top: -20px;
+    color:skyblue;
+}
+#experience{
+    color:skyblue;
+}
+#first{
+    margin-top: -20px;
+    font-weight: bold;
+}
+#second , #fourth{
+    margin-top: -50px; 
+    font-weight: bold;  
+}
+#third{
+    font-weight: bold;
+}
