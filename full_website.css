@@ -4,6 +4,7 @@
     margin-right:900px; 
     padding: 20px;
     margin-left: 250px; 
+    color: white;
 }
 #ima_div{
     background-color: skyblue;
@@ -36,6 +37,7 @@
 .fas , .fab{
     color:white;
     size: 20px;
+    line-height: 1.6;
 }
 
 #right{
@@ -65,3 +67,10 @@
 #third{
     font-weight: bold;
 }
+
+#photoshop , #illustrator ,#indesign , #adobexd , #sketch{
+    height: 2px;
+   color: brown;
+}
+
+
